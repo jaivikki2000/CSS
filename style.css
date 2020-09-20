@@ -1,0 +1,56 @@
+*{
+	font-family: Montserrat;
+}
+}
+h1{
+	font-family:  Montserrat;
+	text-align: center; 
+	background-color: black;
+	color:white;
+	padding: 30px;
+}
+hr{
+	border: 2px inset purple
+}
+p{
+	font-family: Montserrat;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 30px;
+
+
+}
+img{
+	border-radius: 50%;
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 35%;
+	filter: grayscale(100%);
+}
+
+
+header{
+	background-color: white;
+	padding: :10px;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+	color: white;
+	margin: 100px;
+	text-decoration: none;
+
+}
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center; 
+}
+
+li a:hover {
+	color:red;
+	text-decoration: underline;
+	}
